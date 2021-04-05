@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MonsterReact/static/css/main.8255de63.chunk.css",
+    "main.js": "/MonsterReact/static/js/main.873e9997.chunk.js",
+    "main.js.map": "/MonsterReact/static/js/main.873e9997.chunk.js.map",
+    "runtime-main.js": "/MonsterReact/static/js/runtime-main.a50429ae.js",
+    "runtime-main.js.map": "/MonsterReact/static/js/runtime-main.a50429ae.js.map",
+    "static/js/2.47d3de12.chunk.js": "/MonsterReact/static/js/2.47d3de12.chunk.js",
+    "static/js/2.47d3de12.chunk.js.map": "/MonsterReact/static/js/2.47d3de12.chunk.js.map",
+    "static/js/3.9db938e1.chunk.js": "/MonsterReact/static/js/3.9db938e1.chunk.js",
+    "static/js/3.9db938e1.chunk.js.map": "/MonsterReact/static/js/3.9db938e1.chunk.js.map",
+    "index.html": "/MonsterReact/index.html",
+    "static/css/main.8255de63.chunk.css.map": "/MonsterReact/static/css/main.8255de63.chunk.css.map",
+    "static/js/2.47d3de12.chunk.js.LICENSE.txt": "/MonsterReact/static/js/2.47d3de12.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/MonsterReact/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a50429ae.js",
+    "static/js/2.47d3de12.chunk.js",
+    "static/css/main.8255de63.chunk.css",
+    "static/js/main.873e9997.chunk.js"
+  ]
+}
